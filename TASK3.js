@@ -10,4 +10,4 @@ function tashkhis2(){
 function marhale2(){
 let data=input25.value.nextLine();
 
-}
+} 
